@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(()=>{const e=document.createElement("div");e.innerText="Hello, Webpack!",document.body.appendChild(e)}));
